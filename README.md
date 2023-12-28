@@ -1,4 +1,4 @@
-# INFO-6076 – Web Security
+
 ## Lab 03: XSS, CSRF, and BeEF
 
 ### Lab Requirements
